@@ -1,1 +1,1 @@
-# ZIL_ML
+Here you can find the lecture notes and staff of the course.
