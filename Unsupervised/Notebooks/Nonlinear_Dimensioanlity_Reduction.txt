@@ -1,0 +1,11 @@
+Kernel PCA: http://sebastianraschka.com/Articles/2014_kernel_pca.html#nonlinear-dimensionality-reduction
+LLE: https://cs.nyu.edu/~roweis/lle/papers/lleintro.pdf
+Isomap: https://web.mit.edu/cocosci/isomap/isomap.html
+t-SNE: https://mlexplained.com/2018/09/14/paper-dissected-visualizing-data-using-t-sne-explained/
+t-SNE Implementations and Examples: https://lvdmaaten.github.io/tsne/
+
+Some Useful presentations:
+https://web.stanford.edu/class/stats202/content/lec24-cond.pdf
+https://www.cs.toronto.edu/~hinton/csc2535/notes/lec11new.pdf
+https://www.cs.utah.edu/~piyush/teaching/25-10-slides.pdf
+
